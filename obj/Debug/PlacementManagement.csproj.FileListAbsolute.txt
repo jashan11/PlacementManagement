@@ -1,0 +1,170 @@
+D:\PlacementManagement\bin\PlacementManagement.dll.config
+D:\PlacementManagement\bin\PlacementManagement.dll
+D:\PlacementManagement\bin\PlacementManagement.pdb
+D:\PlacementManagement\bin\roslyn\csc.exe
+D:\PlacementManagement\bin\roslyn\csc.exe.config
+D:\PlacementManagement\bin\roslyn\csc.rsp
+D:\PlacementManagement\bin\roslyn\csi.exe
+D:\PlacementManagement\bin\roslyn\csi.exe.config
+D:\PlacementManagement\bin\roslyn\csi.rsp
+D:\PlacementManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PlacementManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PlacementManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PlacementManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PlacementManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PlacementManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PlacementManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PlacementManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PlacementManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PlacementManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PlacementManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PlacementManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PlacementManagement\bin\roslyn\System.AppContext.dll
+D:\PlacementManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\PlacementManagement\bin\roslyn\System.Console.dll
+D:\PlacementManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PlacementManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PlacementManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PlacementManagement\bin\roslyn\System.Globalization.Calendars.dll
+D:\PlacementManagement\bin\roslyn\System.IO.Compression.dll
+D:\PlacementManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PlacementManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\PlacementManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PlacementManagement\bin\roslyn\System.Net.Http.dll
+D:\PlacementManagement\bin\roslyn\System.Net.Sockets.dll
+D:\PlacementManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\PlacementManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PlacementManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PlacementManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PlacementManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PlacementManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PlacementManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PlacementManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PlacementManagement\bin\roslyn\System.ValueTuple.dll
+D:\PlacementManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PlacementManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PlacementManagement\bin\roslyn\System.Xml.XPath.dll
+D:\PlacementManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PlacementManagement\bin\roslyn\vbc.exe
+D:\PlacementManagement\bin\roslyn\vbc.exe.config
+D:\PlacementManagement\bin\roslyn\vbc.rsp
+D:\PlacementManagement\bin\roslyn\VBCSCompiler.exe
+D:\PlacementManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\PlacementManagement\bin\Antlr3.Runtime.dll
+D:\PlacementManagement\bin\EntityFramework.dll
+D:\PlacementManagement\bin\EntityFramework.SqlServer.dll
+D:\PlacementManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PlacementManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\PlacementManagement\bin\Newtonsoft.Json.dll
+D:\PlacementManagement\bin\System.Web.Helpers.dll
+D:\PlacementManagement\bin\System.Web.Mvc.dll
+D:\PlacementManagement\bin\System.Web.Optimization.dll
+D:\PlacementManagement\bin\System.Web.Razor.dll
+D:\PlacementManagement\bin\System.Web.WebPages.Deployment.dll
+D:\PlacementManagement\bin\System.Web.WebPages.dll
+D:\PlacementManagement\bin\System.Web.WebPages.Razor.dll
+D:\PlacementManagement\bin\WebGrease.dll
+D:\PlacementManagement\bin\EntityFramework.xml
+D:\PlacementManagement\bin\EntityFramework.SqlServer.xml
+D:\PlacementManagement\bin\System.Web.Helpers.xml
+D:\PlacementManagement\bin\System.Web.Mvc.xml
+D:\PlacementManagement\bin\System.Web.Optimization.xml
+D:\PlacementManagement\bin\System.Web.Razor.xml
+D:\PlacementManagement\bin\System.Web.WebPages.xml
+D:\PlacementManagement\bin\System.Web.WebPages.Deployment.xml
+D:\PlacementManagement\bin\System.Web.WebPages.Razor.xml
+D:\PlacementManagement\bin\Newtonsoft.Json.xml
+D:\PlacementManagement\bin\Antlr3.Runtime.pdb
+D:\PlacementManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PlacementManagement\obj\Debug\PlacementManagement.csprojAssemblyReference.cache
+D:\PlacementManagement\obj\Debug\PlacementManagement.csproj.CoreCompileInputs.cache
+D:\PlacementManagement\obj\Debug\PlacementManagement.csproj.CopyComplete
+D:\PlacementManagement\obj\Debug\PlacementManagement.dll
+D:\PlacementManagement\obj\Debug\PlacementManagement.pdb
+D:\PlacementManagement\obj\Debug\PlacementManagement.Migrations.initial.resources
+D:\PlacementManagement\obj\Debug\PlacementManagement.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\PlacementManagement.dll.config
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\PlacementManagement.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\PlacementManagement.pdb
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\EntityFramework.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\WebGrease.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\EntityFramework.xml
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\obj\Debug\PlacementManagement.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\obj\Debug\PlacementManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\obj\Debug\PlacementManagement.csproj.CopyComplete
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\obj\Debug\PlacementManagement.dll
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\obj\Debug\PlacementManagement.pdb
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\obj\Debug\PlacementManagement.Migrations.initial.resources
+C:\Users\HP\Desktop\PPts Final Sem\ASP.net\Project\PlacementManagement\obj\Debug\PlacementManagement.csproj.GenerateResource.cache
